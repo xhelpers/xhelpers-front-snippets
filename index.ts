@@ -1,1 +1,1 @@
-export { default } from '{name}.{context}'
+export { default } from './{name}.{context}'
